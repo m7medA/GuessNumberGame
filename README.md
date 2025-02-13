@@ -4,7 +4,7 @@ A simple number guessing game built with HTML, CSS, and JavaScript.
 
 ## Live Demo
 
-[GUESS 🤔](guess-number-m7med.netlify.app).
+[GUESS 🤔](https://guess-number-m7med.netlify.app/).
 
 ## How to Play
 
